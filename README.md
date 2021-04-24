@@ -1,7 +1,7 @@
 [![Build Status][travis-shield]][travis-url]
 [![GitHub tag][tag-shield]][tag-url]
 
-# vtpcache: Tiny, Persistent Cache for V
+# `vtpcache`: Tiny, Persistent Cache for V
 
 <img src="new-01.svg" height="230px" align="right"/>
 
