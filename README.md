@@ -3,7 +3,7 @@
 
 # `vtpcache`
 
-<img src="new-01.svg" height="210px" align="right"/>
+<img src="new-01.svg" height="230px" align="right"/>
 
 `vtpcache` is a key-value, time-based cache with data persistence for [V][vlang].
 
@@ -15,19 +15,11 @@
 [vlang]: https://vlang.io
 [example]: /example.v
 
-[travis-shield]: https://img.shields.io/travis/caian-org/vtpcache.svg?logo=travis-ci&logoColor=FFF&style=for-the-badge
+[travis-shield]: https://img.shields.io/travis/caian-org/vtpcache.svg?logo=travis-ci&logoColor=FFF&style=flat-square
 [travis-url]: https://travis-ci.org/caian-org/vtpcache
 
-[tag-shield]: https://img.shields.io/github/tag/caian-org/vtpcache.svg?logo=git&logoColor=FFF&style=for-the-badge
+[tag-shield]: https://img.shields.io/github/tag/caian-org/vtpcache.svg?logo=git&logoColor=FFF&style=flat-square
 [tag-url]: https://github.com/caian-org/vtpcache/releases
-
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [License](#license)
 
 
 ## Installation
